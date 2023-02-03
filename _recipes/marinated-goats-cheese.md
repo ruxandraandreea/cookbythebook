@@ -12,7 +12,7 @@ D﻿ifficulty: easy
 
 S﻿erves: 2 to 3 small (250ml) jars
 
-I﻿ngredients
+## I﻿ngredients
 
 * 1 round of goat's cheese, about 8 oz (230g)
 * 1/2 cup extra-virgin olive oil
@@ -34,7 +34,7 @@ OR 
 * 1 tsp. dried rosemary
 * Salt and pepper to taste
 
-M﻿ethod
+## M﻿ethod
 
 1. In a small bowl, whisk together the olive oil, balsamic vinegar, Dijon mustard, minced garlic, honey, dried basil, dried oregano, salt, and pepper to make the marinade. Alternatively, whisk together the olive oil, red wine vinegar, minced garlic, thyme, rosemary, salt and pepper to make the other version of the marinade. 
 2. Place the goat's cheese in a shallow dish and pour the marinade over the cheese. Make sure that the cheese is completely covered in the marinade.
