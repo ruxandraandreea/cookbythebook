@@ -1,9 +1,10 @@
 ---
-layout: recipeshome
-title: Here is the name of your recipe site
-permalink: "/"
+title: Cheesy Bites - Cook By The Book
 coverimage: ../uploads/bookcover.jpg
+permalink: /
+layout: recipeshome
 published: true
+date: 2023-02-03T18:56:27.140Z
 ---
 
 Here is an introduction to my recipe site
