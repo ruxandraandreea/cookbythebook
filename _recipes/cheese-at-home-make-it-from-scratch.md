@@ -1,10 +1,12 @@
 ---
-title: "Cheese at home - make it from scratch "
+title: "Basics - make it from scratch "
 date: 2023-02-03T21:20:03.289Z
 order: 8
 layout: recipe
 ---
-Here is a basic recipe for making cheese at home:
+B﻿asics: cheese, pasta and bread. Here are three recipes to make it from scratch. 
+
+## CHEESE
 
 ## Ingredients:
 
@@ -29,3 +31,7 @@ Here is a basic recipe for making cheese at home:
 10. Age the cheese: Store the cheese in a cool, damp place for 1-2 weeks, turning it over daily to prevent mold from forming. You can also wrap it in wax paper and store it in the refrigerator for up to a month.
 
 Enjoy your homemade cheese! This recipe makes a basic fresh cheese that can be flavored and aged further, depending on your preferences.
+
+## P﻿ASTA
+
+## B﻿READ
