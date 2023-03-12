@@ -2,11 +2,11 @@
 # SITE CONFIGURATION
 url: "https://cookbythebook.netlify.app"   #change this to yours
 repository: ruxandraandreea/cookbythebook
-title: Cheesy Delight
-recipemenu: false # you can change to true and a menu of all recipes will appear
-editbutton: false # you can navigate to edit your site by going to https://yoursite.netlify.app/admin
+title: Cheesy Bites
+recipemenu: true # you can change to true and a menu of all recipes will appear
+editbutton: true # you can navigate to edit your site by going to https://yoursite.netlify.app/admin
 # change the above to true and an admin button will appear in your footer
-searchbutton: false # you can have a search feature by adding this button to the footer
+searchbutton: true # you can have a search feature by adding this button to the footer
 # change the above to true and a search button will appear in your footer
 
 
