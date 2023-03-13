@@ -12,6 +12,8 @@ Cook time: 20 mins
 
 Servings: 4 to 5 people 
 
+![Baked fondue with roast potatoes, honey and chili peppers ](../uploads/dall·e-2023-03-13-14.24.19-an-image-for-a-cooking-website-of-a-recipe-of-baked-fondue-with-roast-potatoes-honey-and-chili-peppers.-the-cheese-is-toasted-golden-brown-and-so-are.png "Baked fondue with roast potatoes, honey and chili peppers - suggested image, generated with DALL-E ")
+
 ## I﻿ngredients
 
 * 6 large potatoes, peeled and diced
