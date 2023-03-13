@@ -12,6 +12,8 @@ Cook time: 30 mins
 
 Servings: 4 to 5 people
 
+![Cauliflower cheese](../uploads/dall·e-2023-03-13-14.27.33-an-image-for-a-cooking-website-of-a-recipe-cauliflower-cheese-casserolle-for-dinner-with-golden-brown-cheese-on-top-.png "Cauliflower cheese, suggested image AI generated with DALL-E")
+
 ## I﻿ngredients
 
 * 1 large head of cauliflower, cut into florets
