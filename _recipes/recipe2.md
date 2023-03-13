@@ -15,6 +15,8 @@ D﻿ifficulty: medium
 
 S﻿erves: 3-4 people
 
+![Triple cheese and bacon dauphinoise](../uploads/dall·e-2023-03-13-14.32.31-an-image-for-a-cooking-website-of-a-recipe-for-triple-cheese-and-bacon-dauphinoise-in-a-casserole-dish-golden-brown-and-caramelised-on-top-with-a-s.png "Triple cheese and bacon dauphinoise, suggested image AI generated with DALL-E")
+
 ## Ingredients
 
 * 4 large potatoes
@@ -37,8 +39,6 @@ S﻿erves: 3-4 people
 6. Pour the heavy cream mixture over the layered potatoes and cheese, making sure to evenly distribute the liquid.
 7. Cover the baking dish with aluminium foil and bake for 25 minutes. Then, remove the foil and bake for an additional 25-30 minutes, until the top is golden brown and the potatoes are tender.
 8. Serve hot, garnished with fresh thyme leaves and a sprinkle of salt and pepper. Enjoy the creamy, cheesy, and bacon-filled dauphinoise!
-
-
 
 ## T﻿ips
 
