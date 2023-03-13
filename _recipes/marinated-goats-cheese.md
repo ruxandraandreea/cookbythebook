@@ -12,6 +12,8 @@ D﻿ifficulty: easy
 
 S﻿erves: 2 to 3 small (250ml) jars
 
+![Marinated Goat's Cheese](../uploads/dall·e-2023-03-13-14.29.38-an-image-for-a-cooking-website-of-a-recipe-for-marinated-goat-s-cheese-in-a-jar-of-olive-oil.-the-cheese-balls-are-fully-submerged-under-the-oil-in-a-.png "Marinated Goat's Cheese, suggested image AI generated with DALL-E")
+
 ## I﻿ngredients
 
 * 1 round of goat's cheese, about 8 oz (230g)
