@@ -7,7 +7,7 @@ published: true
 ---
 There’s nothing like a good, cheesy comfort dish on a rainy day to get you warm and filled up. I am an avid lover of mac and cheese - one of the easiest and fastest cheese-loaded dishes, which I mastered over the years with the help of my grandma. Although there are many variations of this dish out there, I promise you this will leave your tummy satisfied, and, although not recommended, you might just have to lie down afterwards. 
 
-![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup]( "Photo by Joseph Smart")
+![Mac & cheese ](../uploads/dall·e-2023-03-13-14.31.08-an-image-for-a-cooking-website-of-a-recipe-for-a-classic-mac-and-cheese-dish-with-golden-brown-cheese-on-top..png "Mac & cheese, suggested image AI generated with DALL-E")
 
 * Prep time: 15 mins + making pasta (optional)
 * Cook time: 20 mins
@@ -30,7 +30,7 @@ There’s nothing like a good, cheesy comfort dish on a rainy day to get you war
 
 \*This recipe works best with short pasta. If you're making your own pasta, follow the recipe from *Basics - learn to cook from scratch.*
 
-*\**﻿For a deeper, tanghier taste, use 200g of cheddar and 200g of Gruyere
+\*\**﻿For a deeper, tanghier taste, use 200g of cheddar and 200g of Gruyere
 
 ## Method
 
