@@ -1,16 +1,15 @@
 ---
 title: Cheesy Bites - Cook By The Book
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/cheesy-bites.jpg
 permalink: /
 layout: recipeshome
 published: true
 date: 2023-02-03T18:56:27.140Z
 ---
+# W﻿elcome to my website!
 
-Here is an introduction to my recipe site
+T﻿his website is dedicated to all things cheese - from recipes, to tips and tricks, all the way to how to make it yourself, from scratch! If you're an avid cheese lover like me, you'll be happy to find the first 5 recipes are beginner friendly and quite diverse in taste - even though they're all centered around cheese. 
 
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
+T﻿he idea behind this website came from an almost empty fridge and a mind full of ideas. Much like all my recent work, all recipes on here are experimental.  Therefore, I decided to use an artificial intelligence (AI) tool to generate them first, and then test them out. From there, I made a few adjustments and put on some final touches, and uploaded them on the website, with the hopes that everyone will give them a try. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+M﻿y experience as an amateur cook and my long-lasting passion for cheese are two of the things that make this website - and the recipes on it - foolproof in my humble opinion. All that being said, if you feel adventurous and are in the mood for cooking - come abroad and let's do it together!
