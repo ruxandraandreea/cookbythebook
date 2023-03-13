@@ -4,7 +4,9 @@ date: 2023-02-03T21:20:03.289Z
 order: 8
 layout: recipe
 ---
-B﻿asics: cheese, pasta and bread. Here are three recipes to make it from scratch. 
+Welcome to the land of cheese! As suggestive as it it, the possibilities are endless. Everyone's taste is different, but I think it is important to know how to make a light, basic cheese from scratch to kickstart your journey into cheese-making. Come along!
+
+![Cheese and roses photo](../uploads/jez-timms-ghfkrvlxk8c-unsplash.jpg "Photo by Jez Timms on Unsplash")
 
 ## CHEESE
 
@@ -31,7 +33,3 @@ B﻿asics: cheese, pasta and bread. Here are three recipes to make it from scrat
 10. Age the cheese: Store the cheese in a cool, damp place for 1-2 weeks, turning it over daily to prevent mold from forming. You can also wrap it in wax paper and store it in the refrigerator for up to a month.
 
 Enjoy your homemade cheese! This recipe makes a basic fresh cheese that can be flavored and aged further, depending on your preferences.
-
-## P﻿ASTA
-
-## B﻿READ
