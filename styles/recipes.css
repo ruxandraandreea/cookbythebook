@@ -125,6 +125,9 @@ h1,h2 {
   font-size: .8rem;
   }
   
+ul {
+ list-style-type: none;
+}
   
   h2#ingredients {
   color: orange;
