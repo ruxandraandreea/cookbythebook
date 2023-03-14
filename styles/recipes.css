@@ -10,13 +10,46 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
 }
 
 /* the rest is up to you */
 
+
+@font-face {
+  font-family: 'lacquerregular';
+  src: url('lacquer-regular-webfont.woff2') format('woff2'),
+       url('lacquer-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'varela_roundregular';
+  src: url('varelaround-regular-webfont.woff2') format('woff2'),
+       url('varelaround-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.title {
+  font-size: 40px;
+}
+
+.title:hover
+{
+color: red;
+
+
+}
+
+
+
+
 body {
   background-color: bisque;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'varela_roundregular';
   padding-top: 7em;
   background-image:url(https://i.ibb.co/tP2bGNx/cheese-pattern-background-1236-182-jpg.webp);
   background-position: center;
@@ -44,7 +77,7 @@ ol li {
 }
 h1,h2 {
   color:rgb(238, 90, 5);
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'lacquerregular';
   text-align: center;
   padding-bottom: 10px;
   }
@@ -80,18 +113,20 @@ h1,h2 {
   header a {
     text-decoration: none;
     color: rgb(255, 252, 200);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'lacquerregular';
   }
    
   a {
     text-decoration: none;
     color: rgb(255, 252, 200);
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    
+    font-family: 'varela_roundregular';    
   }
   
   header h1 {
-    margin: 12px auto;
+    margin: auto;
+    font-family: 'lacquerregular';
+    font-size: 40px;
+    justify-content: center;
   }
   
   img {
@@ -105,6 +140,7 @@ h1,h2 {
   nav a {
     color:white;
     text-decoration: none;
+    font-family: 'varela_roundregular';
   }
   
   nav {
@@ -187,11 +223,13 @@ nav ul {
   }
   @media screen and (max-width: 700px) {
   
+  
 
   nav {
   margin:0;
   position: static;
   width:100%;
+
   }
   
   nav ul {
